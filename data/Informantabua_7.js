@@ -1,0 +1,1 @@
+var json_Informantabua_7 = {"type":"FeatureCollection","name":"Informantabua_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":1.0,"info":null},"geometry":{"type":"Point","coordinates":[17.888213755647044,48.699770148002422]}}]}
